@@ -246,4 +246,4 @@ class Lagrange extends Component {
     }
 }
 export default Lagrange;
-/* อิอิ */
+/* อิอิอิ */
