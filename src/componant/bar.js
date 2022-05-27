@@ -27,6 +27,8 @@ import Linear from '../page/Regression/Linear';
 import Polynomial from '../page/Regression/Polynomial';
 //import MultipleLinear from '../page/Regression/Spline';
 
+/* ไปเอามาจากเว็ป */
+
 function Bar() {
     return (
         <Router>
