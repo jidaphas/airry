@@ -218,12 +218,7 @@ class Newton extends Component {
                                         onClick={() => {this.createTableInput(parseInt(this.state.nPoints));this.createInterpolatePointInput()}}>
                                             Submit
                                         </Button>
-                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <Button type="submit"   size="large"
-                                        style={{ color: '#CCFFFF', background: '#660000'}}
-                                        onClick={() => this.dataapi()}>
-                                            API
-                                        </Button><br />
+                                        
                                         </form>
                             }
                             {/* 2  tempTag  tableTag*/}

@@ -197,12 +197,7 @@ class Lagrange extends Component {
                                         style={{color: '#CCFFFF', background: '#660000' }}>
                                         Submit
                                     </Button>
-                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <Button type="submit"   size="large"
-                                        style={{ color: '#CCFFFF', background: '#660000'}}
-                                        onClick={() => this.dataapi()}>
-                                            API
-                                        </Button>
+                                    
                                 </div> 
                             }
                             {this.state.showTableInput && 

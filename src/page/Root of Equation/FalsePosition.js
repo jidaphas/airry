@@ -166,13 +166,9 @@ class FalsePosition extends Component {
                     >
                         Submit
                     </Button>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <Button type="submit" size="Default"
-                        style={{ color: '#CCFFFF', background: '#660000' }}
-                        onClick={() => this.dataapi()}
-                    >
-                        API
-                    </Button>
+                   
+
+                    
                 </form>
                 <br></br>
                 

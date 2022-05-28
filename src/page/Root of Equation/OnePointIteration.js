@@ -116,11 +116,8 @@ class Onepoint extends Component {
                      onClick={() => this.onSubmit(parseFloat(x0))}>
                         Submit
                 </Button >
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <Button onClick={() => this.ex()} style={{ color: '#CCFFFF', background: '#660000' }}>
-                        api
-                </Button>
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              
+             
               </form>
               <div>
                     <br></br>

@@ -121,15 +121,11 @@ class Newton extends Component {
                     style={{ color: '#CCFFFF', background: '#660000'}}
                     onClick={() => this.newton_raphson(parseFloat(x0))}
                     >
+                       
                       Submit
                     </Button>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <Button type="submit"   size="large"
-                    style={{ color: '#CCFFFF', background: '#660000'}}
-                    onClick={() => this.dataapi()}
-                    >
-                      API
-                    </Button>
+                   
+                   
                   </form>
                   <br></br>
                 <div >

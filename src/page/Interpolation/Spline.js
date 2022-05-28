@@ -218,12 +218,7 @@ class Spline extends Component {
                                         style={{ color: '#CCFFFF', background: '#660000'}}>
                                         Submit<br></br>
                                     </Button>
-                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <Button type="submit"   size="large"
-                                        style={{ color: '#CCFFFF', background: '#660000'}}
-                                        onClick={() => this.dataapi()}>
-                                            API
-                                        </Button>
+                                   
                                 </div>
                             }
                             
