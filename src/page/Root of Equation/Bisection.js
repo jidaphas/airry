@@ -187,3 +187,5 @@ class Bisection extends Component {
     }
 }
 export default Bisection;
+
+/* ดด */
